@@ -171,9 +171,9 @@ print(result)
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+**Vinayaka PM**
+- GitHub: [@Vpm30srb](https://github.com/Vpm30srb)
+- LinkedIn: [Vinayaka PM](https://www.linkedin.com/in/vinayakapm/)
 
 ---
 
